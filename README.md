@@ -6,8 +6,8 @@ Data sets
 ----
 All of the datasets we used are open-soursed.<br>
 Fever dataset: [https://fever.ai/dataset/adversarial.html](https://fever.ai/dataset/adversarial.html).<br>
-MNLI dataset: [https://paperswithcode.com/dataset/multinli](https://paperswithcode.com/dataset/multinli)
-SNLI dataset: [https://paperswithcode.com/dataset/snli](https://paperswithcode.com/dataset/snli)
+MNLI dataset: [https://paperswithcode.com/dataset/multinli](https://paperswithcode.com/dataset/multinli)<br>
+SNLI dataset: [https://paperswithcode.com/dataset/snli](https://paperswithcode.com/dataset/snli)<br>
 
 Dependencies
 ----
