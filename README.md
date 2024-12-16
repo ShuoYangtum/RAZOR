@@ -17,25 +17,15 @@ Dependencies
 ----
 Before running our code, please ensure that the following dependencies are met.<br> 
 
-torch==2.3.0<br> 
-
-tokenizers==0.19.1<br> 
-
-tqdm==4.66.4<br> 
-
-transformers==4.40.1<br> 
-
-spacy==3.7.4<br> 
-
-shap==0.46.0<br> 
-
-sentence-transformers==3.0.1<br> 
-
-pandas==2.2.2<br> 
-
-openai==1.27.0<br> 
-
-numpy==1.26.4<br> 
+| Library  | Version |
+| ------------- | ------------- |
+| torch  | 2.3.0  |
+| tokenizers  | 0.19.1  |
+| transformers  | 4.40.1  |
+| spacy  | 3.7.4  |
+| shap  | 0.46.0  |
+| sentence-transformers  | 3.0.1  |
+| openai  | 1.27.0  |
 
 Running
 ----
