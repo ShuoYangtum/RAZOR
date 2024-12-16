@@ -5,7 +5,7 @@ This is the code for our paper **RAZOR: Sharpening Knowledge by Cutting Bias wit
 Data sets
 ----
 All of the datasets we used are open-soursed.<br>
-Fever dataset: [https://fever.ai/dataset/adversarial.html](https://fever.ai/dataset/adversarial.html).<br>
+Fever dataset: [https://fever.ai/dataset/adversarial.html](https://fever.ai/dataset/adversarial.html)<br>
 MNLI dataset: [https://paperswithcode.com/dataset/multinli](https://paperswithcode.com/dataset/multinli)<br>
 SNLI dataset: [https://paperswithcode.com/dataset/snli](https://paperswithcode.com/dataset/snli)<br>
 
