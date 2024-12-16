@@ -1,6 +1,10 @@
 RAZOR: Sharpening Knowledge by Cutting Bias with Unsupervised Text Rewriting
 ====
-This is the code for our paper **RAZOR: Sharpening Knowledge by Cutting Bias with Unsupervised Text Rewriting**, please check it [here](https://arxiv.org/abs/2412.07675).
+This is the code for **RAZOR: Sharpening Knowledge by Cutting Bias with Unsupervised Text Rewriting**. <br>
+
+We mitigate the spurious correlations between tokens and labels by rewriting the dataset using large language models, please check our paper [here](https://arxiv.org/abs/2412.07675).<br>
+
+![Image text](https://github.com/ShuoYangtum/images/blob/main/RAZOR.PNG)
 
 Data sets
 ----
