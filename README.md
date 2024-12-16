@@ -2,6 +2,13 @@ RAZOR: Sharpening Knowledge by Cutting Bias with Unsupervised Text Rewriting
 ====
 This is the code for our paper **RAZOR: Sharpening Knowledge by Cutting Bias with Unsupervised Text Rewriting**, please check it [here](https://arxiv.org/abs/2412.07675).
 
+Data sets
+----
+All of the datasets we used are open-soursed.<br>
+Fever dataset: [https://fever.ai/dataset/adversarial.html](https://fever.ai/dataset/adversarial.html).<br>
+MNLI dataset: [https://paperswithcode.com/dataset/multinli](https://paperswithcode.com/dataset/multinli)
+SNLI dataset: [https://paperswithcode.com/dataset/snli](https://paperswithcode.com/dataset/snli)
+
 Dependencies
 ----
 Before running our code, please ensure that the following dependencies are met.<br> 
